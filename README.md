@@ -6,6 +6,15 @@
 
 </pre>
 
+<h1></h1>
+<pre><p align="center"> 
+  Visitor count<br>
+  
+  <img src="https://profile-counter.glitch.me/mithun-gowda/count.svg" />
+</p></pre>
+
+
+<h1>Technologies Used:</h1>
  
                                            
 
