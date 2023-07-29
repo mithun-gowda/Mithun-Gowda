@@ -26,7 +26,10 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mithun-gowda/)
 <a href="https://www.youtube.com/channel/UC7YQhuCsJmX7ueWMLfLdEUQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a>      <a target="_blank" href="">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+  
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
