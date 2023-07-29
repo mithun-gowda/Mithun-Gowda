@@ -30,6 +30,6 @@
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
 <a href="https://mithunakkadka.wixsite.com/mithungowda1999">
-               <img src="https://img.shields.io/badge/Portfolio-madebygaurav.vercel.app-2ea44f?style=plastic"/>
+               <img src="https://img.shields.io/badge/Portfolio-MithunGowda"/>
             </a>
 
