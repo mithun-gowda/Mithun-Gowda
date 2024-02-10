@@ -1,36 +1,44 @@
-                                                   
+<div style="display: flex; justify-content: center;">
+        <img align="center" src="./Assets/Welcome.gif" />
+</div>
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" /> 
+
 <p align="center"> 👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Mithun Gowda</p>
 <p align="center">🎓Bachelor of Computer Applications student at the Mangalore University</p>
 
+
+<p>
+        <img align="right" style="width:500px; height:400px;" 
+        src="./Assets/Right_Side.gif" />
+        <img align="right"
+        src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;1+%2B%20years%20of%20hands-on%20experience;&center=true&width=500&height=45" />
+        <h3 align="left">    A   self-motivated, hard-working and ambitious Software Developer with proficiency in Python.
+        Problem solving mindset and the ability to perform well in collaboration.</h3>
+        <h3 align="left"> 2000+ hours of coding and hands-on experience in developing fully functional Web Applications.</h3>
+        <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked</h3>
+        <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+</p>
+
+<p>
+        <h1>🌠Technologies☄</h1>
+        <div align="center">
+            <img src="https://skillicons.dev/icons?i=python,mongodb,css,html,django,fastapi,mysql,firebase,postman,docker,kubernetes,jenkins,gitlab,git,github,aws,azure&perline=13"/>
+        </div>
+        <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+</p>
+
+<h1>🏆Stats🏅</h1>
 <pre>   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mithun-Gowda&show_icons=true&theme=radical" /><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Gowda&layout=compact" /><br>
 </pre>
 
-<h1></h1>
-<pre><p align="center"> 
-  Visitor count<br>
-  
-  <img src="https://profile-counter.glitch.me/mithun-gowda/count.svg" />
-</p></pre>
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-
-<h2>Technologies Used:</h2>
- <p align = "center">
-<code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="PYTHON" /></code>            
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>         
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium" /></code>          
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" /></code>         
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>         
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5" /></code>        
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS3" title="CSS3" /></code>        
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>      
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" /></code>   
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" /></code>      
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>   
-   <code><img height="30" width="30" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS" /></code>
-   <code><img height="30" width="30" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white.png" alt="AWS" title="DevOps" /></code>
-   <code><img height="30" width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Vs Code" title="Visual Studio Code" /></code>
- </p>
+<h1>Visitor count🔢</h1>
+<div align="center">
+ <img src="https://profile-counter.glitch.me/mithun-gowda/count.svg" />
+</div>
 
 
 <h2>Contact:</h2>
@@ -55,5 +63,3 @@ Feel free to contact me in any case and if I will be able, I will be happy to he
 <p></p>
 
 [![](https://komarev.com/ghpvc/?username=mithun-gowda&color=000000)](https://github.com/mithun-gowda?tab=repositories)  
-
-
