@@ -23,7 +23,7 @@
 <p>
         <h1>🌠Technologies☄</h1>
         <div align="center">
-            <img src="https://skillicons.dev/icons?i=python,mongodb,css,html,django,fastapi,mysql,firebase,postman,docker,kubernetes,jenkins,windows,redhat,ios,vmware,linux,gitlab,git,github,aws,azure&perline=13"/>
+            <img src="https://skillicons.dev/icons?i=python,mongodb,css,html,django,fastapi,mysql,firebase,postman,docker,kubernetes,jenkins,windows,android,ios,VMware,linux,gitlab,git,github,aws,azure,redhat&perline=13"/>
         </div>
         <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 </p>
