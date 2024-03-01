@@ -29,8 +29,8 @@
 </p>
 
 <h1>🏆Stats🏅</h1>
-<pre>   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mithun-Gowda&show_icons=true&theme=radical" /><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Gowda&layout=compact" /><br>
+<pre align="center">   
+        <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Gowda&layout=compact" /><br>
 </pre>
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
