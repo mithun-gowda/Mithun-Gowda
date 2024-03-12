@@ -13,11 +13,10 @@
         src="./Assets/Right_Side.gif" />
         <img align="right"
         src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;1+%2B%20years%20of%20hands-on%20experience;&center=true&width=500&height=45" />
-        <h3 align="left">    A   self-motivated, hard-working and ambitious Software Developer with proficiency in Python.
-        Problem solving mindset and the ability to perform well in collaboration.</h3>
-        <h3 align="left"> 2000+ hours of coding and hands-on experience in developing fully functional Web Applications.</h3>
-        <h3 align="left">Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked</h3>
-        <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+       <h3 align="left">A self-motivated, hard-working, and ambitious Software Engineer. DevOps and Cloud Infrastructure enthusiast with a passion for mastering Python, DevOps methodologies, and cloud optimization.</h3>
+        <h3 align="left">Over 2000 hours of coding and hands-on experience in developing fully functional Web Applications.</h3>
+        <h3 align="left">Dedicated to continuous learning and growth, with a proactive mindset and a commitment to driving organizational success through innovation.</h3>
+       <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 </p>
 
 <p>
