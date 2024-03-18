@@ -49,16 +49,14 @@
   </a>      <a target="_blank" href="https://www.instagram.com/mithun______gowda/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<a href="https://main--exquisite-donut-8ab534.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Mithun-Gowda/"/>
+  </a>
   
 
 Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
-<h2> My portfolio: </h2>
 
-<a href="https://mithunakkadka.wixsite.com/mithungowda1999">
-    <img src="https://img.shields.io/badge/Portfolio-Mithun-Gowda/"/>
-  </a>
-<p></p>
 
-[![](https://komarev.com/ghpvc/?username=mithun-gowda&color=000000)](https://github.com/mithun-gowda?tab=repositories)  
+<h2 align="left">Like my work? Consider supporting:</h2>
+<p><a href="https://www.buymeacoffee.com/mithungowda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffee" /></a></p><br><br>
