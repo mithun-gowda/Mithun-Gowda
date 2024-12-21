@@ -13,7 +13,7 @@
         src="./Assets/Right_Side.gif" />
         <img align="right"
         src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Full-Stack%20Web%20Developer;1+%2B%20years%20of%20hands-on%20experience;&center=true&width=500&height=45" />
-       <h3 align="left">A self-motivated, hard-working, and ambitious Software Engineer. DevOps and Cloud Infrastructure enthusiast with a passion for mastering Python, DevOps methodologies, and cloud optimization.</h3>
+       <h3 align="left">A self-motivated, hard-working, and ambitious Software Engineer with a strong focus on Data Engineering. Passionate about optimizing data workflows, building scalable data pipelines, and mastering tools and technologies to drive data-driven insights. Also, enthusiastic about DevOps practices, with experience in automating processes and improving cloud infrastructure efficiency.</h3>
         <h3 align="left">Over 2000 hours of coding and hands-on experience in developing fully functional Web Applications.</h3>
         <h3 align="left">Dedicated to continuous learning and growth, with a proactive mindset and a commitment to driving organizational success through innovation.</h3>
        <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
